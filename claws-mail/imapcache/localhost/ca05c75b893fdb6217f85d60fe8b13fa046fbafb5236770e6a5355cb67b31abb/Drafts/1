@@ -1,0 +1,21 @@
+X-Claws-Account-Id:1
+S:ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@yggmail
+SCF:#imap/ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143/Sent
+X-Claws-Sign:0
+X-Claws-Encrypt:0
+X-Claws-Privacy-System:
+X-Claws-Auto-Wrapping:1
+X-Claws-Auto-Indent:1
+X-Claws-Manual-Headers:
+X-Claws-End-Special-Headers: 1
+Date: Sun, 18 Jul 2021 16:30:29 -0700
+From: yggmail-test <ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@yggmail>
+To: 617b5772c6d10feda41fc6e0e43b976c4cc9383d3729310d3dc9e1332f0d9acd@yggmail
+Subject: Stacktrace Time
+Message-ID: <20210718163017.76248ecd@powerbook>
+X-Mailer: Claws Mail 3.17.8 (GTK+ 2.24.32; x86_64-pc-linux-gnu)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Just hit send

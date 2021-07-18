@@ -7,6 +7,15 @@ let
 
   yggmail = pkgs.callPackage ./default.nix {};
 
+  claws-wrapped = pkgs.symlinkJoin {
+    name = "claws-wrapped";
+    paths = [ pkgs.claws-mail ];
+    buildInputs = [ pkgs.makeWrapper ];
+    postBuild = ''
+      wrapProgram $out/bin/claws-mail --add-flags "--alternate-config-dir ./claws-mail"
+    '';
+  };
+
 in pkgs.mkShell {
-  buildInputs = [ yggmail pkgs.claws-mail ];
+  buildInputs = [ yggmail claws-wrapped ];
 }

@@ -1,0 +1,309 @@
+[2021-07-18 16:26:22] * message: Account 'ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143': Connecting to IMAP server: localhost:1143...
+[2021-07-18 16:26:22] IMAP< * OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=PLAIN AUTH=LOGIN] IMAP4rev1 Service Ready 
+[2021-07-18 16:26:22] * message: IMAP connection is un-authenticated
+[2021-07-18 16:26:23] IMAP> 1 CAPABILITY 
+[2021-07-18 16:26:23] IMAP< * CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=LOGIN AUTH=PLAIN 
+[2021-07-18 16:26:23] IMAP< 1 OK CAPABILITY completed 
+[2021-07-18 16:26:23] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using PLAIN
+[2021-07-18 16:26:23] IMAP< CAPABILITY completed
+[2021-07-18 16:26:23] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:23] IMAP< Error logging in to localhost
+[2021-07-18 16:26:23] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using LOGIN
+[2021-07-18 16:26:23] IMAP< CAPABILITY completed
+[2021-07-18 16:26:23] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:23] IMAP< Error logging in to localhost
+[2021-07-18 16:26:23] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using plaintext
+[2021-07-18 16:26:23] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:23] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:23] IMAP< Error logging in to localhost
+[2021-07-18 16:26:28] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using PLAIN
+[2021-07-18 16:26:28] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:28] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:28] IMAP< Error logging in to localhost
+[2021-07-18 16:26:28] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using LOGIN
+[2021-07-18 16:26:28] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:28] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:28] IMAP< Error logging in to localhost
+[2021-07-18 16:26:28] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using plaintext
+[2021-07-18 16:26:28] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:28] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:28] IMAP< Error logging in to localhost
+[2021-07-18 16:26:30] IMAP> 4 LOGOUT 
+[2021-07-18 16:26:30] IMAP< * BYE Closing connection 
+[2021-07-18 16:26:30] IMAP< 4 OK LOGOUT completed 
+[2021-07-18 16:26:42] * message: Account 'ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143': Connecting to IMAP server: localhost:1143...
+[2021-07-18 16:26:42] IMAP< * OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=PLAIN AUTH=LOGIN] IMAP4rev1 Service Ready 
+[2021-07-18 16:26:42] * message: IMAP connection is un-authenticated
+[2021-07-18 16:26:42] IMAP> 1 CAPABILITY 
+[2021-07-18 16:26:42] IMAP< * CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=PLAIN AUTH=LOGIN 
+[2021-07-18 16:26:42] IMAP< 1 OK CAPABILITY completed 
+[2021-07-18 16:26:42] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using PLAIN
+[2021-07-18 16:26:42] IMAP< CAPABILITY completed
+[2021-07-18 16:26:42] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:42] IMAP< Error logging in to localhost
+[2021-07-18 16:26:42] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using LOGIN
+[2021-07-18 16:26:42] IMAP< CAPABILITY completed
+[2021-07-18 16:26:42] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:42] IMAP< Error logging in to localhost
+[2021-07-18 16:26:42] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using plaintext
+[2021-07-18 16:26:43] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:43] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:43] IMAP< Error logging in to localhost
+[2021-07-18 16:26:46] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using PLAIN
+[2021-07-18 16:26:46] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:46] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:46] IMAP< Error logging in to localhost
+[2021-07-18 16:26:46] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using LOGIN
+[2021-07-18 16:26:46] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:46] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:46] IMAP< Error logging in to localhost
+[2021-07-18 16:26:46] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using plaintext
+[2021-07-18 16:26:46] IMAP< failed to authenticate: crypto/bcrypt: hashedPassword is not the hash of the given password
+[2021-07-18 16:26:46] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:26:46] IMAP< Error logging in to localhost
+[2021-07-18 16:26:48] IMAP> 4 LOGOUT 
+[2021-07-18 16:26:48] IMAP< * BYE Closing connection 
+[2021-07-18 16:26:48] IMAP< 4 OK LOGOUT completed 
+[2021-07-18 16:27:41] * message: Account 'ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143': Connecting to IMAP server: localhost:1143...
+[2021-07-18 16:27:41] ** warning: IMAP error on localhost: connection refused
+[2021-07-18 16:28:00] * message: Account 'ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143': Connecting to IMAP server: localhost:1143...
+[2021-07-18 16:28:00] IMAP< * OK [CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=PLAIN AUTH=LOGIN] IMAP4rev1 Service Ready 
+[2021-07-18 16:28:00] * message: IMAP connection is un-authenticated
+[2021-07-18 16:28:00] IMAP> 1 CAPABILITY 
+[2021-07-18 16:28:00] IMAP< * CAPABILITY IMAP4rev1 LITERAL+ SASL-IR CHILDREN AUTH=PLAIN AUTH=LOGIN 
+[2021-07-18 16:28:00] IMAP< 1 OK CAPABILITY completed 
+[2021-07-18 16:28:00] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using PLAIN
+[2021-07-18 16:28:00] IMAP< CAPABILITY completed
+[2021-07-18 16:28:00] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:28:00] IMAP< Error logging in to localhost
+[2021-07-18 16:28:00] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using LOGIN
+[2021-07-18 16:28:00] IMAP< CAPABILITY completed
+[2021-07-18 16:28:00] ** warning: IMAP error on localhost: LOGIN error
+[2021-07-18 16:28:00] IMAP< Error logging in to localhost
+[2021-07-18 16:28:00] IMAP> Logging ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb to localhost using plaintext
+[2021-07-18 16:28:00] IMAP< LOGIN completed
+[2021-07-18 16:28:00] IMAP< Login to localhost successful
+[2021-07-18 16:28:00] IMAP> 3 LIST "" "" 
+[2021-07-18 16:28:00] IMAP< * LIST (\Noselect) "/" "/" 
+[2021-07-18 16:28:00] IMAP< 3 OK LIST completed 
+[2021-07-18 16:28:00] IMAP> 4 LSUB "" "%" 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" INBOX 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" "Outbox" 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" "Trash" 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" "Queue" 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" "Sent" 
+[2021-07-18 16:28:00] IMAP< * LSUB () "/" "Drafts" 
+[2021-07-18 16:28:00] IMAP< 4 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 5 LSUB "" "INBOX/%" 
+[2021-07-18 16:28:00] IMAP< 5 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 6 LSUB "" "Outbox/%" 
+[2021-07-18 16:28:00] IMAP< 6 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 7 LSUB "" "Trash/%" 
+[2021-07-18 16:28:00] IMAP< 7 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 8 LSUB "" "Queue/%" 
+[2021-07-18 16:28:00] IMAP< 8 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 9 LSUB "" "Sent/%" 
+[2021-07-18 16:28:00] IMAP< 9 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 10 LSUB "" "Drafts/%" 
+[2021-07-18 16:28:00] IMAP< 10 OK LSUB completed 
+[2021-07-18 16:28:00] IMAP> 11 SELECT Queue 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< 11 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 12 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 12 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 13 SELECT INBOX 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< 13 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 14 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 14 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 15 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 15 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 16 SELECT Outbox 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< 16 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 17 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 17 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 18 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 18 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 19 SELECT Trash 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< 19 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 20 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 20 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 21 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 21 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 22 SELECT Queue 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< 22 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 23 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 23 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 24 SELECT Sent 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< 24 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 25 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 25 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 26 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 26 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP> 27 SELECT Drafts 
+[2021-07-18 16:28:00] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:00] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:00] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:00] IMAP< * 0 RECENT 
+[2021-07-18 16:28:00] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:00] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:00] IMAP< 27 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 28 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 28 OK UID FETCH completed 
+[2021-07-18 16:28:00] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:00] IMAP> 29 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:00] IMAP< 29 OK UID FETCH completed 
+[2021-07-18 16:28:37] IMAP> 30 SELECT Queue 
+[2021-07-18 16:28:37] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:37] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:37] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:37] IMAP< * 0 RECENT 
+[2021-07-18 16:28:37] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:37] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:37] IMAP< 30 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:37] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:37] IMAP> 31 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:37] IMAP< 31 OK UID FETCH completed 
+[2021-07-18 16:28:37] IMAP> 32 APPEND Queue (\Seen) {931} 
+[2021-07-18 16:28:37] IMAP< + send literal 
+[2021-07-18 16:28:37] IMAP> [data - 933 bytes]
+[2021-07-18 16:28:37] IMAP< * 1 EXISTS 
+[2021-07-18 16:28:37] IMAP< 32 OK APPEND completed 
+[2021-07-18 16:28:37] IMAP> 33 NOOP 
+[2021-07-18 16:28:37] IMAP< 33 OK NOOP completed 
+[2021-07-18 16:28:37] IMAP> 34 SELECT Queue 
+[2021-07-18 16:28:37] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:37] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:37] IMAP< * 1 EXISTS 
+[2021-07-18 16:28:37] IMAP< * 0 RECENT 
+[2021-07-18 16:28:37] IMAP< * OK [UIDNEXT 2] Predicted next UID 
+[2021-07-18 16:28:37] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:37] IMAP< 34 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:37] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:37] IMAP> 35 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:37] IMAP< * 1 FETCH (UID 1) 
+[2021-07-18 16:28:37] IMAP< 35 OK UID FETCH completed 
+[2021-07-18 16:28:37] IMAP> 36 UID FETCH 1 BODY.PEEK[] 
+[2021-07-18 16:28:37] IMAP< [FETCH data - 992 bytes]
+[2021-07-18 16:28:37] IMAP- [fetching flags...]
+[2021-07-18 16:28:37] IMAP> 37 UID FETCH 1:* (FLAGS UID) 
+[2021-07-18 16:28:37] IMAP< * 1 FETCH (FLAGS (\Seen) UID 1) 
+[2021-07-18 16:28:37] IMAP< 37 OK UID FETCH completed 
+[2021-07-18 16:28:37] * message: Account 'ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb@localhost:1143': Connecting to SMTP server: localhost:1025...
+[2021-07-18 16:28:37] *** error: localhost:1025: connection failed (Connection refused).
+[2021-07-18 16:28:37] SMTP< 220 ca05c75b893fdb6217f85d60fe8b13fa046fbafb5236770e6a5355cb67b31abb ESMTP Service Ready
+[2021-07-18 16:28:37] ESMTP> EHLO powerbook
+[2021-07-18 16:28:37] ESMTP< 250-Hello powerbook
+[2021-07-18 16:28:37] ESMTP< 250-PIPELINING
+[2021-07-18 16:28:37] ESMTP< 250-8BITMIME
+[2021-07-18 16:28:37] ESMTP< 250-ENHANCEDSTATUSCODES
+[2021-07-18 16:28:37] ESMTP< 250-CHUNKING
+[2021-07-18 16:28:37] ESMTP< 250-AUTH PLAIN LOGIN
+[2021-07-18 16:28:37] ESMTP< 250 SIZE 1048576
+[2021-07-18 16:28:37] ESMTP> AUTH LOGIN
+[2021-07-18 16:28:37] ESMTP< 334 VXNlcm5hbWU6
+[2021-07-18 16:28:37] ESMTP> [USERID]
+[2021-07-18 16:28:37] ESMTP< 334 UGFzc3dvcmQ6
+[2021-07-18 16:28:37] ESMTP> [PASSWORD]
+[2021-07-18 16:28:37] ESMTP< 421 4.0.0 Internal server error
+[2021-07-18 16:28:37] ** warning: error occurred on SMTP session
+[2021-07-18 16:28:37] *** error: Error occurred while sending the message:
+421 4.0.0 Internal server error
+[2021-07-18 16:28:37] IMAP> 38 UID STORE 1 +FLAGS.SILENT (\Deleted) 
+[2021-07-18 16:28:37] IMAP< 38 OK UID STORE completed 
+[2021-07-18 16:28:37] IMAP> 39 EXPUNGE 
+[2021-07-18 16:28:37] IMAP< * 1 EXPUNGE 
+[2021-07-18 16:28:37] IMAP< 39 OK EXPUNGE completed 
+[2021-07-18 16:28:37] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:37] IMAP> 40 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:37] IMAP< 40 OK UID FETCH completed 
+[2021-07-18 16:28:44] IMAP> 41 SELECT Drafts 
+[2021-07-18 16:28:44] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:44] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:44] IMAP< * 0 EXISTS 
+[2021-07-18 16:28:44] IMAP< * 0 RECENT 
+[2021-07-18 16:28:44] IMAP< * OK [UIDNEXT 1] Predicted next UID 
+[2021-07-18 16:28:44] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:44] IMAP< 41 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:44] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:44] IMAP> 42 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:44] IMAP< 42 OK UID FETCH completed 
+[2021-07-18 16:28:44] IMAP> 43 APPEND Drafts (\Seen) {821} 
+[2021-07-18 16:28:44] IMAP< + send literal 
+[2021-07-18 16:28:44] IMAP> [data - 823 bytes]
+[2021-07-18 16:28:44] IMAP< * 1 EXISTS 
+[2021-07-18 16:28:44] IMAP< 43 OK APPEND completed 
+[2021-07-18 16:28:44] IMAP> 44 NOOP 
+[2021-07-18 16:28:44] IMAP< 44 OK NOOP completed 
+[2021-07-18 16:28:44] IMAP> 45 SELECT Drafts 
+[2021-07-18 16:28:44] IMAP< * FLAGS (\Seen \Answered \Flagged \Deleted) 
+[2021-07-18 16:28:44] IMAP< * OK [PERMANENTFLAGS (\Seen \Answered \Flagged \Deleted)] Flags permitted. 
+[2021-07-18 16:28:44] IMAP< * 0 RECENT 
+[2021-07-18 16:28:44] IMAP< * OK [UIDNEXT 2] Predicted next UID 
+[2021-07-18 16:28:44] IMAP< * OK [UIDVALIDITY 1] UIDs valid 
+[2021-07-18 16:28:44] IMAP< * 1 EXISTS 
+[2021-07-18 16:28:44] IMAP< 45 OK [READ-WRITE] SELECT completed 
+[2021-07-18 16:28:44] IMAP- [fetching UIDs...]
+[2021-07-18 16:28:44] IMAP> 46 UID FETCH 1:* (UID) 
+[2021-07-18 16:28:44] IMAP< * 1 FETCH (UID 1) 
+[2021-07-18 16:28:44] IMAP< 46 OK UID FETCH completed 
+[2021-07-18 16:28:44] IMAP> 47 UID FETCH 1 BODY.PEEK[] 
+[2021-07-18 16:28:44] IMAP< [FETCH data - 855 bytes]
+[2021-07-18 16:28:44] IMAP< 47 OK UID FETCH completed 
+[2021-07-18 16:28:44] IMAP- [fetching flags...]
+[2021-07-18 16:28:44] IMAP> 48 UID FETCH 1:* (FLAGS UID) 
+[2021-07-18 16:28:44] IMAP< * 1 FETCH (FLAGS (\Seen) UID 1) 
+[2021-07-18 16:28:44] IMAP< 48 OK UID FETCH completed 
+[2021-07-18 16:28:44] IMAP> 49 UID STORE 1 -FLAGS.SILENT (\Seen) 
+[2021-07-18 16:28:44] IMAP< 49 OK UID STORE completed 
+[2021-07-18 16:28:44] IMAP- [fetching flags...]
+[2021-07-18 16:28:44] IMAP> 50 UID FETCH 1:* (FLAGS UID) 
+[2021-07-18 16:28:44] IMAP< * 1 FETCH (FLAGS () UID 1) 
+[2021-07-18 16:28:44] IMAP< 50 OK UID FETCH completed 
+[2021-07-18 16:29:00] IMAP> 51 NOOP 
+[2021-07-18 16:29:00] IMAP< 51 OK NOOP completed 
